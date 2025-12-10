@@ -24,7 +24,7 @@
 <br/>
 
 ## 🚀 About Me
-- 🎓 3rd-year IT undergraduate at SLIIT
+- 🎓 4th-year IT undergraduate at SLIIT
 - 💻 MERN Stack Developer & QA Engineer (in progress)
 - 🐾 Currently building a Pet Care Management System (group project)
 - ✨ Developing employee management & user privilege modules
