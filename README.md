@@ -1,4 +1,4 @@
-# Chamodi Amrasinghe GitHub Profile README
+
 
 <!-- MASTER HEAD IMAGE -->
 <div align="center">
