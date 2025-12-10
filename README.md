@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Chamodi Amrasinghe</h1>
-<h3 align="center">Software Engineering Undergraduate | MERN Stack Developer | QA Enthusiast</h3>
+<h3 align="center">Information Technology Undergraduate | MERN Stack Developer | QA Enthusiast</h3>
 
 <div align="center">
   <a href="https://github.com/ChamodiAmarasinghe" target="_blank">
